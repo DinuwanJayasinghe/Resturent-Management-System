@@ -1,0 +1,871 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmproductreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmproductreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|d:\\business projects\\cindypos\\cindy restaurant\\cindy restaurant\\forms\\frmsettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmsettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmregemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmregemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmthetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmthetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmreceiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmreceiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmpopupchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmpopupchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvtaxsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvtaxsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvnetsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvnetsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewtax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewtax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewproducttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewproducttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvieworderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvieworderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewloghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewloghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvfreezeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvfreezeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvdetailssettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvdetailssettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmvcashierreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmvcashierreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmunfreezeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmunfreezeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\ufrmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\ufrmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\ufrmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\ufrmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmupproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmupproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmupelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmupelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmupdatetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmupdatetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmfreezeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmfreezeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmrecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmrecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewordersettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewordersettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmprodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmprodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmmodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmmodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\classes\\clsselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\classes\\clsselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmregemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmregemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmprodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmprodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmaddelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmaddelectroniccurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\images\\status-dialog-error-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\images\\status-dialog-error-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmrecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmrecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\form_view\\frmviewordersettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\form_view\\frmviewordersettlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\folder_updates\\frmupdatetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\folder_updates\\frmupdatetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\cindy restaurant\\forms\\frmdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7057D26-189F-46A0-8AF3-A9F2F626B283}|Cindy Restaurant\\Cindy Restaurant.csproj|solutionrelative:cindy restaurant\\forms\\frmdeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPopupChange.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmPopupChange.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmPopupChange.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmPopupChange.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmPopupChange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:30:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmProductReg.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProductReg.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmProductReg.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProductReg.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmProductReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:30:57.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReceiptPreview.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmReceiptPreview.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmReceiptPreview.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmReceiptPreview.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmReceiptPreview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTheTables.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmTheTables.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmTheTables.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmTheTables.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmTheTables.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:19.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "orderInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\orderInfo.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\orderInfo.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\orderInfo.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\orderInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:22.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSettlement.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSettlement.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmSettlement.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSettlement.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmSettlement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:11.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegEmp.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmRegEmp.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmRegEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:55:34.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmOrder.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:50:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVTaxSales.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVTaxSales.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmVTaxSales.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVTaxSales.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmVTaxSales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:28.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmVNetSales.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVNetSales.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmVNetSales.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVNetSales.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmVNetSales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:58:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmViewUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewUsers.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewUsers.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewUsers.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmViewTax.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewTax.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewTax.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewTax.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewTax.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:58:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmViewProductTypes.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewProductTypes.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewProductTypes.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewProductTypes.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewProductTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:23.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmViewProducts.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewProducts.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewProducts.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewProducts.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:17.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmViewOrderInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderInfo.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewOrderInfo.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderInfo.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewOrderInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmViewLogHistory.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewLogHistory.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewLogHistory.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewLogHistory.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewLogHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:00.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmViewEmployees.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewEmployees.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewEmployees.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewEmployees.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewEmployees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmViewCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewCurrency.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewCurrency.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:48.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmVFreezeItems.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVFreezeItems.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmVFreezeItems.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVFreezeItems.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmVFreezeItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:46.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmVDetailsSettlement.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVDetailsSettlement.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmVDetailsSettlement.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVDetailsSettlement.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmVDetailsSettlement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:58:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmVCashierReport.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVCashierReport.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmVCashierReport.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmVCashierReport.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmVCashierReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmUnFreezeItem.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmUnFreezeItem.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmUnFreezeItem.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmUnFreezeItem.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmUnFreezeItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ufrmEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\ufrmEmployee.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\ufrmEmployee.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\ufrmEmployee.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\ufrmEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:34:01.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ufrmCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\ufrmCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\ufrmCurrency.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\ufrmCurrency.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\ufrmCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:34:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmUpProducts.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpProducts.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmUpProducts.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpProducts.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmUpProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:34:18.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmUpElectronicCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpElectronicCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmUpElectronicCurrency.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpElectronicCurrency.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmUpElectronicCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:57:47.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmChangePass.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmChangePass.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:34:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmUpdateTax.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:34:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmFreezeItem.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmFreezeItem.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmFreezeItem.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmFreezeItem.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmFreezeItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:05.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmRecall.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmRecall.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmRecall.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:26.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmViewElectronicCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewElectronicCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewElectronicCurrency.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewElectronicCurrency.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewElectronicCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:32:52.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmViewOrderSettlement.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs [Design]",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:33:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmProdType.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProdType.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmProdType.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProdType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:30:54.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmParent.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmParent.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmParent.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmParent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:00:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmModification.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmModification.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmModification.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmModification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:10:15.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmDeveloper.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmDeveloper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:01:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAddUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmAddUsers.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmAddUsers.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:10:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:10:25.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSplash.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmSplash.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:19:37.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmLogin.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:19:33.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "orderInfo.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\orderInfo.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\orderInfo.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\orderInfo.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\orderInfo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:57:01.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmOrder.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmOrder.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmOrder.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA9wEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:14:25.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmParent.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmParent.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmParent.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmParent.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmParent.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAwwJ4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:22:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmRegEmp.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmRegEmp.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAUwHIBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:22:23.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsSelect.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Classes\\clsSelect.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Classes\\clsSelect.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Classes\\clsSelect.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Classes\\clsSelect.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwGcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:22:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmSplash.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSplash.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmSplash.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmSplash.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmSplash.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:34:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmLogin.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAUwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:41:05.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmProdType.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProdType.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmProdType.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmProdType.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmProdType.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:12:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAddElectronicCurrency.cs [Design]",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmAddElectronicCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmAddElectronicCurrency.cs",
+              "ToolTip": "F:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmAddElectronicCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:10:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Status-dialog-error-icon.png",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Images\\Status-dialog-error-icon.png",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Images\\Status-dialog-error-icon.png",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Images\\Status-dialog-error-icon.png",
+              "RelativeToolTip": "Cindy Restaurant\\Images\\Status-dialog-error-icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-02T12:07:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmRecall.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmRecall.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T09:13:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmCurrency.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmCurrency.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAIwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:29:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmViewOrderSettlement.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Form_View\\frmViewOrderSettlement.cs",
+              "ViewState": "AQIAALIBAAAAAAAAAAAMwL8BAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:58:55.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmChangePass.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmChangePass.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAMwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:35:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmUpdateTax.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Folder_Updates\\frmUpdateTax.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAWwJQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:41:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmDeveloper.cs",
+              "DocumentMoniker": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "RelativeDocumentMoniker": "Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "ToolTip": "D:\\Business Projects\\CindyPOS\\Cindy Restaurant\\Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "RelativeToolTip": "Cindy Restaurant\\Forms\\frmDeveloper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:01:59.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
